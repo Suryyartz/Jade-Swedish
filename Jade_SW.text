@@ -45,14 +45,14 @@ LANDSCAPE_MODE = "Landskap";
 
 /* ------------------------------ ROOT PAGE ------------------------------ */
 
-TWEAK_CONFIGURATION_TITLE = "Tweak Configuration";
-ENABLE_TWEAK_TITLE = "Enable";
-ENABLE_TWEAK_SUBTITLE = "Enable Jade";
+TWEAK_CONFIGURATION_TITLE = "Tweak konfiguration";
+ENABLE_TWEAK_TITLE = "Aktivera";
+ENABLE_TWEAK_SUBTITLE = "Aktivera Jade";
 
-GENERAL_SETTINGS_TITLE = "General Settings";
-PRESENTATION_GESTURE_TITLE = "Presentation Gesture";
-PRESENTATION_GESTURE_SUBTITLE = "Size and location of the present gesture";
-INTERFACE_TITLE = "Interface";
+GENERAL_SETTINGS_TITLE = "Allmänna Inställningar";
+PRESENTATION_GESTURE_TITLE = "Presentationsgeste";
+PRESENTATION_GESTURE_SUBTITLE = "Storlek och plats för den nuvarande gesten";
+INTERFACE_TITLE = "användargränssnitt";
 INTERFACE_SUBTITLE = "Control the look and feel";
 MODULES_TITLE = "Modules";
 MODULES_SUBTITLE = "Control the custom modules' look";
