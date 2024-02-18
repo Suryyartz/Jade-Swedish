@@ -24,7 +24,7 @@ APPLY = "Tillämpa";
 RESPRING = "Respring";
 RESET_PREFERENCES = "Återställ inställningar";
 RESET_PREFERENCES_QUESTION = "Vill du återställ inställningar?";
-RESET_PREFERENCES_DESCRIPTION = "Detta kan inte göras ogjort";
+RESET_PREFERENCES_DESCRIPTION = "Detta kan inte avbrytas";
 RESET = "Återställa";
 
 TEXT_COLOR = "Text färg";
@@ -33,7 +33,7 @@ BACKGROUND_COLOR = "Bakgrundsfärg";
 BACKGROUND_IMAGE = "Bakgrundsbild";
 BACKGROUND_IMAGE_SUBTITLE = Huvudbakgrundsbild";
 
-CONFIGURED_PRESET_TEXT = "Configured preset text";
+CONFIGURED_PRESET_TEXT = "Konfigurerad förinställd text";
 
 APP_PLAYING = "App Playing";
 
