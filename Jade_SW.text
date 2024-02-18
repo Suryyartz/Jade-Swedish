@@ -100,58 +100,58 @@ SPLIT = "Dela";
 HIDE_BATTERY_PERCENT_TITLE = "Dölj batteriprocent";
 HIDE_BATTERY_PERCENT_SUBTITLE = "Dölj aktuell batteriprocent bredvid batteriikonen i batteriwidgeten";
 
-LOW_POWER_MODE_TAP_TITLE = "Tap for Low Power Mode";
-LOW_POWER_MODE_TAP_SUBTITLE = "Tap the battery pill to enter low power mode and vice versa";
+LOW_POWER_MODE_TAP_TITLE = "Tryck för låg strömförbrukning";
+LOW_POWER_MODE_TAP_SUBTITLE = "Tryck på batteripillret för att aktivera låg strömförbrukning och vice versa";
 
-GRABBER = "Grabber";
-HIDE_GRABBER_TITLE = "Hide Grabber";
-HIDE_GRABBER_SUBTITLE = "Hide the menu grabber";
+GRABBER = "Hämtare";
+HIDE_GRABBER_TITLE = "Dölj hämtare";
+HIDE_GRABBER_SUBTITLE = "Dölj menyhämtaren";
 
-SHOW_BACKGROUND_BLUR_TITLE = "Show Background Blur";
-SHOW_BACKGROUND_BLUR_SUBTITLE = "Show the stock background blur behind the menu";
+SHOW_BACKGROUND_BLUR_TITLE = "Visa bakgrundssuddighet";
+SHOW_BACKGROUND_BLUR_SUBTITLE = "Visa standardbakgrundssudd bakom menyn";
 
 /* ----------------------------- MODULES PAGE ----------------------------- */
 
-INCLUDED = "Included";
-CONNECTIVITY = "Connectivity";
-MEDIA_CONTROLS = "Media Controls";
-UPTIME = "Uptime";
-POWER_CONTROLS = "Power Controls";
-BLUETOOTH_DEVICES = "Bluetooth Devices";
-WEATHER = "Weather";
-ORIGINAL_MODULES = "Original Modules";
-EXCLUDED = "Excluded";
+INCLUDED = "Inkluderad";
+CONNECTIVITY = "Anslutning";
+MEDIA_CONTROLS = "Mediakontroller";
+UPTIME = "Drifttid";
+POWER_CONTROLS = "Strömkontroller";
+BLUETOOTH_DEVICES = "Bluetooth-enheter";
+WEATHER = "Väder";
+ORIGINAL_MODULES = "Originalmoduler";
+EXCLUDED = "Utesluten";
 
 /* -------------------------- CONNECTIVITY PAGE --------------------------- */
 
-CONNECTIVITY_MODULES_TITLE = "Connectivity Modules";
+CONNECTIVITY_MODULES_TITLE = "Anslutningsmoduler";
 
 WIFI = "Wi-Fi";
 BLUETOOTH = "Bluetooth";
-AIRPLANE_MODE = "Airplane Mode";
-CELLULAR = "Cellular";
+AIRPLANE_MODE = "Flygplansläge";
+CELLULAR = "Cellulär";
 AIRDROP = "AirDrop";
-PERSONAL_HOTSPOT = "Personal Hotspot";
+PERSONAL_HOTSPOT = "Internetdelning";
 
-CHANGEABLE_MODULE = "Custom Module";
-CONNECTIVITY_CHANGEABLE_ICON_SUBTITLE = "Select which module to display for the custom module above";
+CHANGEABLE_MODULE = "Anpassad modul";
+CONNECTIVITY_CHANGEABLE_ICON_SUBTITLE = "Välj vilken modul som ska visas för den anpassade modulen ovan";
 
 /* ----------------------------- SLIDERS PAGE ----------------------------- */
 
-BRIGHTNESS = "Brightness";
-VOLUME = "Volume";
+BRIGHTNESS = "Ljusstyrka";
+VOLUME = "Volym";
 
-ROUNDED_SLIDERS_TITLE = "Rounded Sliders";
-ROUNDED_SLIDERS_SUBTITLE = "Make the innards of the sliders rounded";
+ROUNDED_SLIDERS_TITLE = "Avrundade reglage";
+ROUNDED_SLIDERS_SUBTITLE = "Gör insidan av reglagen avrundad";
 
-HAPTIC_SLIDERS_TITLE = "Haptic Sliders";
-HAPTIC_SLIDERS_SUBTITLE = "Haptic feedback for the sliders";
+HAPTIC_SLIDERS_TITLE = "Haptiska reglage";
+HAPTIC_SLIDERS_SUBTITLE = "Haptisk återkoppling för reglagen";
 
-STATIC_GLYPHS_TITLE = "Static Glyphs";
-STATIC_GLYPHS_SUBTITLE = "No animation for icons";
+STATIC_GLYPHS_TITLE = "Statiska glyfer";
+STATIC_GLYPHS_SUBTITLE = "Ingen animation för ikoner";
 
-PERCENT_LABELS_TITLE = "Percent Labels";
-PERCENT_LABELS_SUBTITLE = "Show percent of slider next to icon";
+PERCENT_LABELS_TITLE = "Procentetiketter";
+PERCENT_LABELS_SUBTITLE = "Visa procent av reglaget bredvid ikonen";
 
 /* ------------------------- FAVORITE TOGGLES PAGE ------------------------ */
 
