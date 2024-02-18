@@ -37,11 +37,11 @@ CONFIGURED_PRESET_TEXT = "Konfigurerad förinställd text";
 
 APP_PLAYING = "App Playing";
 
-DEVELOPER = "DEVELOPER";
+DEVELOPER = "Utvecklare";
 DESIGNER = "DESIGNER";
 
 PORTRAIT_MODE = "Portrait";
-LANDSCAPE_MODE = "Landscape";
+LANDSCAPE_MODE = "Landskap";
 
 /* ------------------------------ ROOT PAGE ------------------------------ */
 
