@@ -1,7 +1,7 @@
 /* -------------------------------- GLOBAL -------------------------------- */
 
-NO_BLUETOOTH_DEVICES_CONNECTED = "No Bluetooth Devices Connected";
-CURRENT_UPTIME = "Current Uptime";
+NO_BLUETOOTH_DEVICES_CONNECTED = "Inga Bluetooth-enheter anslutna";
+CURRENT_UPTIME = "Aktuell drifttid";
 
 PERCENT_FORMAT = "%i%%";
 TIME_FORMAT = "%ldd %ldh %ldm";
@@ -21,7 +21,7 @@ CANCEL = "Avbryt";
 CONTINUE = "Fortsätta";
 APPLY = "Tillämpa";
 
-RESPRING = "Respring";
+RESPRING = "Omladdning";
 RESET_PREFERENCES = "Återställ inställningar";
 RESET_PREFERENCES_QUESTION = "Vill du återställ inställningar?";
 RESET_PREFERENCES_DESCRIPTION = "Detta kan inte avbrytas";
@@ -50,55 +50,55 @@ ENABLE_TWEAK_TITLE = "Aktivera";
 ENABLE_TWEAK_SUBTITLE = "Aktivera Jade";
 
 GENERAL_SETTINGS_TITLE = "Allmänna Inställningar";
-PRESENTATION_GESTURE_TITLE = "Presentationsgeste";
-PRESENTATION_GESTURE_SUBTITLE = "Storlek och plats för den nuvarande gesten";
+PRESENTATION_GESTURE_TITLE = "Presentationsgest";
+PRESENTATION_GESTURE_SUBTITLE = "Storlek och plats för presentationsgesten";
 INTERFACE_TITLE = "användargränssnitt";
-INTERFACE_SUBTITLE = "Control the look and feel";
-MODULES_TITLE = "Modules";
-MODULES_SUBTITLE = "Control the custom modules' look";
+INTERFACE_SUBTITLE = "Kontrollera utseendet och känslan";
+MODULES_TITLE = "Moduler";
+MODULES_SUBTITLE = "Styr utseendet för anpassade moduler";
 THEMING_TITLE = "Theming";
-THEMING_SUBTITLE = "Make the UI look just the way you want";
+THEMING_SUBTITLE = "Gör gränssnittet precis som du vill ha det";
 
-PRESETS_SETTINGS_TITLE = "Preset Settings";
+PRESETS_SETTINGS_TITLE = "Förinställningsinställningar";
 
-IMPORT_PRESET_TITLE = "Import Preset";
-IMPORT_PRESET_SUBTITLE = "Import a configured preset";
+IMPORT_PRESET_TITLE = "Importera förinställning";
+IMPORT_PRESET_SUBTITLE = "Importera en konfigurerad förinställning";
 
-EXPORT_PRESET_TITLE = "Export Preset";
-EXPORT_PRESET_SUBTITLE = "Export current preset";
+EXPORT_PRESET_TITLE = "Exportera förinställning";
+EXPORT_PRESET_SUBTITLE = "Exportera aktuell förinställning";
 
 /* ---------------------- PRESENTATION GESTURE PAGE ---------------------- */
 
-GESTURE_LOCATION_TITLE = "Gesture Location";
-GESTURE_LOCATION_SUBTITLE = "Location of the activation gesture";
+GESTURE_LOCATION_TITLE = "Gestplats";
+GGESTURE_LOCATION_SUBTITLE = "Plats för aktiveringsgesten";
 
-STOCK = "Stock";
-BOTH = "Both";
+STOCK = "Standard";
+BOTH = "Båda";
 
-PRESENT_EXPANDED_TITLE = "Present Expanded";
-PRESENT_EXPANDED_SUBTITLE = "Present the menu completely expanded";
+PRESENT_EXPANDED_TITLE = "Presentera utökat";
+PRESENT_EXPANDED_SUBTITLE = "Presentera menyn helt utökad";
 
-PRESENTATION_OFFSET_TITLE = "Presentation Offset";
-PRESENTATION_OFFSET_SUBTITLE = "The vertical offset of the menu when opened";
+PRESENTATION_OFFSET_TITLE = "Presentationsförskjutning";
+PRESENTATION_OFFSET_SUBTITLE = "Den vertikala förskjutningen av menyn när den öppnas";
 
 /* --------------------------- INTERFACE PAGE --------------------------- */
 
-CORNER_RADIUS_TITLE = "Corner Radius";
-CORNER_RADIUS_SUBTITLE = "The corner radius of all the elements in Jade";
+CORNER_RADIUS_TITLE = "Hörnradie";
+CORNER_RADIUS_SUBTITLE = "Hörnradie för alla element i Jade";
 
-INDICATORS_TITLE = "Indicators";
-SHOW_BATTERY_WIDGET_TITLE = "Show Battery";
-SHOW_BATTERY_WIDGET_SUBTITLE = "Show battery indicator widget";
-SHOW_TIME_WIDGET_TITLE = "Show Time";
-SHOW_TIME_WIDGET_SUBTITLE = "Show time indicator widget";
+INDICATORS_TITLE = "Indikatorer";
+SHOW_BATTERY_WIDGET_TITLE = "Visa batteri";
+SHOW_BATTERY_WIDGET_SUBTITLE = "Visa batteriindikatorwidget";
+SHOW_TIME_WIDGET_TITLE = "Visa tid";
+SHOW_TIME_WIDGET_SUBTITLE = "Visa tidsindikatorwidget";
 
-WIDGET_LAYOUT_TITLE = "Widget Layout";
-WIDGET_LAYOUT_SUBTITLE = "Positioning of the widgets";
+WIDGET_LAYOUT_TITLE = "Widgetlayout";
+WIDGET_LAYOUT_SUBTITLE = "Positionering av widgetar";
 
-SPLIT = "Split";
+SPLIT = "Dela";
 
-HIDE_BATTERY_PERCENT_TITLE = "Hide Battery Percent";
-HIDE_BATTERY_PERCENT_SUBTITLE = "Hide the current battery percentage next to the battery icon in the battery widget";
+HIDE_BATTERY_PERCENT_TITLE = "Dölj batteriprocent";
+HIDE_BATTERY_PERCENT_SUBTITLE = "Dölj aktuell batteriprocent bredvid batteriikonen i batteriwidgeten";
 
 LOW_POWER_MODE_TAP_TITLE = "Tap for Low Power Mode";
 LOW_POWER_MODE_TAP_SUBTITLE = "Tap the battery pill to enter low power mode and vice versa";
