@@ -35,7 +35,7 @@ BACKGROUND_IMAGE_SUBTITLE = Huvudbakgrundsbild";
 
 CONFIGURED_PRESET_TEXT = "Konfigurerad förinställd text";
 
-APP_PLAYING = "App Playing";
+APP_PLAYING = "Spelar Upp Ljud";
 
 DEVELOPER = "Utvecklare";
 DESIGNER = "DESIGNER";
