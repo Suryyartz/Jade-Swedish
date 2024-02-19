@@ -155,147 +155,147 @@ PERCENT_LABELS_SUBTITLE = "Visa procent av reglaget bredvid ikonen";
 
 /* ------------------------- FAVORITE TOGGLES PAGE ------------------------ */
 
-FAVORITE_TOGGLES_TITLE = "Number of Pages";
-FAVORITE_TOGGLES_SUBTITLE = "Number of scrollable pages for the favorite toggles section";
+FAVORITE_TOGGLES_TITLE = "Antal sidor";
+FAVORITE_TOGGLES_SUBTITLE = "Antal bläddringsbara sidor för favoritknapparna";
 
-FAVORITE_TOGGLES_CLARIFICATION = "The first modules in the Control Center section of the Settings app will be selected for the favorite toggles";
+FAVORITE_TOGGLES_CLARIFICATION = "De första modulerna i Kontrollcenteravsnittet i Inställningsappen kommer att väljas för favoritknapparna";
 
 /* ------------------------------ MEDIA PAGE ----------------------------- */
 
 MEDIA = "Media";
 
-NO_MEDIA_TITLE = "No Media";
-NO_MEDIA_SUBTITLE = "Hide the media module when no media is playing or paused";
+NO_MEDIA_TITLE = "Ingen media";
+NO_MEDIA_SUBTITLE = "Dölj media-modulen när ingen media spelas eller är pausad";
 
-MEDIA_PROGRESS_TITLE = "Hide Media Progress";
-MEDIA_PROGRESS_SUBTITLE = "Hide the media progress bar";
+MEDIA_PROGRESS_TITLE = "Dölj medieförlopp";
+MEDIA_PROGRESS_SUBTITLE = "Dölj medieförloppsindikatorn";
 
-HIDE_MEDIA_ICON_TITLE = "Hide Media Icon";
-HIDE_MEDIA_ICON_SUBTITLE = "Hide now playing media icon";
+HIDE_MEDIA_ICON_TITLE = "Dölj medieikon";
+HIDE_MEDIA_ICON_SUBTITLE = "Dölj nuvarande mediespelande ikon";
 
 /* ----------------------------- POWER PAGE ----------------------------- */
 
-TECHNICAL_POWER_OPTIONS_TITLE = "Power Options";
+TECHNICAL_POWER_OPTIONS_TITLE = "Strömalternativ";
 
-USE_USERSPACE_REBOOT_TITLE = "Use Userspace Reboot";
-USE_USERSPACE_REBOOT_SUBTITLE = "Perform userspace reboot when the reboot button is pressed";
+USE_USERSPACE_REBOOT_TITLE = "Använd Userspace omstart";
+USE_USERSPACE_REBOOT_SUBTITLE = "Utför userspace-omstart när omstartknappen trycks";
 
-USE_SBRELOAD_TITLE = "Use sbreload";
-USE_SBRELOAD_SUBTITLE = "Use sbreload to respring instead of \"killall SpringBoard\"";
+USE_SBRELOAD_TITLE = "Använd sbreload";
+USE_SBRELOAD_SUBTITLE = "Använd sbreload för omladdning istället för "killall SpringBoard"";
 
-UNAVAILABLE_ON_XINA = "Unavailable on XinaA15";
+UNAVAILABLE_ON_XINA = "Otillgänglig på XinaA15";
 
-REBOOT = "Reboot";
-SHUTDOWN = "Shutdown";
-SAFE_MODE = "Safe Mode";
-LOCK = "Lock";
+REBOOT = "Starta om";
+SHUTDOWN = "Stäng av";
+SAFE_MODE = "Säkert läge";
+LOCK = "Lås";
 
 /* ---------------------------- THEMING PAGE ------------------------------ */
 
-LEGACY_THEME_SUPPORT_TITLE = "Legacy Theme Support";
-LEGACY_THEME_SUPPORT_SUBTITLE = "Compatibility with legacy themes from Prysm";
-LEGACY_THEME_SUPPORT_FOOTER_TEXT = "When enabled, images will be read from \"/Library/Application Support/Prysm/Icons\" on rootful and \"/var/jb/Library/Application Support/Prysm/Icons\" on rootless.\n\nThis allows cross-compatibility with legacy themes from Prysm. By default, the folder is empty. If disabled, images will be read from system images (SF Symbols).";
+LEGACY_THEME_SUPPORT_TITLE = "Stöd för äldre teman";
+LEGACY_THEME_SUPPORT_SUBTITLE = "Kompatibilitet med äldre teman från Prysm";
+LEGACY_THEME_SUPPORT_FOOTER_TEXT = "När detta är aktiverat läses bilder från "/Library/Application Support/Prysm/Icons" på rootful och "/var/jb/Library/Application Support/Prysm/Icons" på rootless.\n\nDetta möjliggör tvärkompatibilitet med äldre teman från Prysm. Som standard är mappen tom. Om det är inaktiverat läses bilder från systembilder (SF Symbols).";
 
-INDICATORS_SUBTITLE = "Customize the look of the indicators";
+INDICATORS_SUBTITLE = "Anpassa utseendet på indikatorerna";
 
-CUSTOM_MODULES_TITLE = "Custom Modules";
-CUSTOM_MODULES_SUBTITLE = "Customize the look of the custom modules";
+CUSTOM_MODULES_TITLE = "Anpassade moduler";
+CUSTOM_MODULES_SUBTITLE = "Anpassa utseendet på de anpassade modulerna";
 
-STOCK_MODULES_TITLE = "Stock Modules";
-STOCK_MODULES_SUBTITLE = "Customize the look of the stock modules";
+STOCK_MODULES_TITLE = "Standardmoduler";
+STOCK_MODULES_SUBTITLE = "Anpassa utseendet på standardmodulerna";
 
-GRABBER_COLOR = "Grabber Color";
+GRABBER_COLOR = "Hämtarfärg";
 
-BACKGROUND_OPACITY_TITLE = "Background Opacity";
-BACKGROUND_OPACITY_SUBTITLE = "Set the background opacity of the menu";
+BACKGROUND_OPACITY_TITLE = "Bakgrundsopacitet";
+BACKGROUND_OPACITY_SUBTITLE = "Ange bakgrundsopacitet för menyn";
 
 /* -------------------------- INDICATORS PAGE ---------------------------- */
 
-TIME_INDICATOR_TITLE = "Time Indicator";
-BATTERY_INDICATOR_TITLE = "Battery Indicator";
+TIME_INDICATOR_TITLE = "Tidsindikator";
+BATTERY_INDICATOR_TITLE = "Batteriindikator";
 
 /* ------------------------ CUSTOM MODULES PAGE -------------------------- */
 
-CUSTOM_MODULES_BACKGROUND_COLOR = "Background Colors";
+CUSTOM_MODULES_BACKGROUND_COLOR = "Bakgrundsfärger";
 
-CONNECTIVITY_COLORS_TITLE = "Connectivity Colors";
-CONNECTIVITY_COLORS_SUBTITLE = "Colors for the connectivity modules within the custom module";
+CONNECTIVITY_COLORS_TITLE = "Anslutningsfärger";
+CONNECTIVITY_COLORS_SUBTITLE = "Färger för anslutningsmodulerna inom den anpassade modulen";
 
-SLIDERS_THEMING_TITLE = "Sliders Colors";
-SLIDERS_THEMING_SUBTITLE = "Colors for the slider modules";
+SLIDERS_THEMING_TITLE = "Reglagefärger";
+SLIDERS_THEMING_SUBTITLE = "Färger för reglage modulerna";
 
-MEDIA_THEMING_TITLE = "Media Colors";
-MEDIA_THEMING_SUBTITLE = "Colors for the media module's items";
+MEDIA_THEMING_TITLE = "Mediafärger";
+MEDIA_THEMING_SUBTITLE = "Färger för mediamodulens objekt";
 
-POWER_THEMING_TITLE = "Power Colors";
-POWER_THEMING_SUBTITLE = "Colors for the power module's items";
+POWER_THEMING_TITLE = "Strömfärger";
+POWER_THEMING_SUBTITLE = "Färger för strömmens objekt";
 
-UPTIME_THEMING_TITLE = "Uptime Colors";
-UPTIME_THEMING_SUBTITLE = "Colors for the uptime module's items";
+UPTIME_THEMING_TITLE = "Drifttidsfärger";
+UPTIME_THEMING_SUBTITLE = "Färger för drifttidsobjekten";
 
-WEATHER_THEMING_TITLE = "Weather Colors";
-WEATHER_THEMING_SUBTITLE = "Colors for the weather module's items";
+WEATHER_THEMING_TITLE = "Väderfärger";
+WEATHER_THEMING_SUBTITLE = "Färger för väderobjekten";
 
-BLUETOOTH_THEMING_TITLE = "Bluetooth Colors";
-BLUETOOTH_THEMING_SUBTITLE = "Colors for the bluetooth module's items";
+BLUETOOTH_THEMING_TITLE = "Bluetoothfärger";
+BLUETOOTH_THEMING_SUBTITLE = "Färger för bluetooth-modulens objekt";
 
 /* --------------------- CONNECTIVITY COLORS PAGE ----------------------- */
 
-COLOR_GLYPHS_TITLE = "Color Glyphs";
-COLOR_GLYPHS_SUBTITLE = "Color the icons instead of the module backgrounds";
+COLOR_GLYPHS_TITLE = "Färgglyfer";
+COLOR_GLYPHS_SUBTITLE = "Färglägg ikonerna istället för modulbakgrunderna";
 
-INACTIVE_MODULE_COLOR = "Inactive Module Color";
+INACTIVE_MODULE_COLOR = "Inaktiv modulfärg";
 
 /* ------------------------ SLIDER COLORS PAGE -------------------------- */
 
-SLIDER_COLOR = "Slider Color";
+SLIDER_COLOR = "Reglagefärg";
 
 /* ------------------------- MEDIA COLORS PAGE -------------------------- */
 
-MEDIA_PLACEHOLDER_IMAGE_TINT_COLOR = "Placeholder Image Color";
-MEDIA_ARTWORK_BACKGROUND_TINT_COLOR = "Artwork Background Color";
+MEDIA_PLACEHOLDER_IMAGE_TINT_COLOR = "Platsbildfärg";
+MEDIA_ARTWORK_BACKGROUND_TINT_COLOR = "Bakgrundsfärg för konstverk";
 
-MEDIA_TITLE_TEXT_COLOR = "Media Title Color";
-MEDIA_SUBTITLE_TEXT_COLOR = "Media Subtitle Color";
+MEDIA_TITLE_TEXT_COLOR = "Medietitelfärg";
+MEDIA_SUBTITLE_TEXT_COLOR = "Mediedeltextfärg";
 
-MEDIA_BACKWARD_IMAGE_TINT_COLOR = "Backward Image Color";
-MEDIA_PLAY_IMAGE_TINT_COLOR = "Play Image Color";
-MEDIA_FORWARD_IMAGE_TINT_COLOR = "Forward Image Color";
+MEDIA_BACKWARD_IMAGE_TINT_COLOR = "Bakåtbildfärg";
+MEDIA_PLAY_IMAGE_TINT_COLOR = "Spelabildfärg";
+MEDIA_FORWARD_IMAGE_TINT_COLOR = "Framåtbildfärg";
 
-MEDIA_PROGRESS_COLOR = "Progress Color";
+MEDIA_PROGRESS_COLOR = "Framstegsfärg";
 
 /* ------------------------- UPTIME COLORS PAGE -------------------------- */
 
-UPTIME_TEXT = "Uptime Text";
-UPTIME_TIME = "Uptime Time";
+UPTIME_TEXT = "Drifttidstext";
+UPTIME_TIME = "Drifttid";
 
 /* ------------------------ WEATHER COLORS PAGE -------------------------- */
 
-WEATHER_CONDITION_COLOR = "Condition Color";
-WEATHER_LOCATION_COLOR = "Location Color";
-WEATHER_TEMPERATURE_COLOR = "Temperature Color";
-WEATHER_HIGH_LOW_COLOR = "High/Low Color";
+WEATHER_CONDITION_COLOR = "Villkorsfärg";
+WEATHER_LOCATION_COLOR = "Platsfärg";
+WEATHER_TEMPERATURE_COLOR = "Temperaturfärg";
+WEATHER_HIGH_LOW_COLOR = "Hög/Låg-färg";
 
 /* ----------------------- BLUETOOTH COLORS PAGE ------------------------- */
 
-NO_BLUETOOTH_DEVICES_COLOR = "No Bluetooth Devices Color";
-BLUETOOTH_ICON_TINT_COLOR = "Icon Tint Color";
-BLUETOOTH_CHARGING_COLOR = "Charging Color";
-BLUETOOTH_PERCENT_COLOR = "Percent Color";
-BLUETOOTH_DEVICE_COLOR = "Device Name Color";
+NO_BLUETOOTH_DEVICES_COLOR = "Inga Bluetooth-enheter färg";
+BLUETOOTH_ICON_TINT_COLOR = "Ikonfärg";
+BLUETOOTH_CHARGING_COLOR = "Laddningsfärg";
+BLUETOOTH_PERCENT_COLOR = "Procentfärg";
+BLUETOOTH_DEVICE_COLOR = "Enhetenamnsfärg";
 
 /* ------------------------- STOCK MODULES PAGE --------------------------- */
 
-STOCK_MODULES_ON_COLOR = "Color When On";
-STOCK_MODULES_OFF_COLOR = "Default Color";
+STOCK_MODULES_ON_COLOR = "Färg när på";
+STOCK_MODULES_OFF_COLOR = "Standardfärg";
 
 /* ---------------------------- POWER MODULE ------------------------------ */
 
-REBOOT_DEVICE = "Reboot Device";
-REBOOT_DEVICE_DISCLAIMER = "Are you sure you want to reboot your device? Your device will be sent to non-jailbroken mode.";
+REBOOT_DEVICE = "Starta om enheten";
+REBOOT_DEVICE_DISCLAIMER = "Är du säker på att du vill starta om din enhet? Din enhet kommer att skickas till icke-jailbreak-läge.";
 
-USERSPACE_REBOOT_DEVICE = "Userspace Reboot";
-USERSPACE_REBOOT_DEVICE_DISCLAIMER = "Are you sure you want to userspace reboot your device?";
+USERSPACE_REBOOT_DEVICE = "Userspace omstart";
+USERSPACE_REBOOT_DEVICE_DISCLAIMER = "Är du säker på att du vill göra en userspace-omstart av din enhet?";
 
-SHUTDOWN_DEVICE = "Shutdown Device";
-SHUTDOWN_DEVICE_DISCLAIMER = "Are you sure you want to shutdown your device? Your device will be shut down.";
+SHUTDOWN_DEVICE = "Stäng av enheten";
+SHUTDOWN_DEVICE_DISCLAIMER = "Är du säker på att du vill stänga av din enhet? Din enhet kommer att stängas av.";
